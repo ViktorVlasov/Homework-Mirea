@@ -58,7 +58,7 @@ int main()
 
 		/* Побочная белая диагональ */
 		ConvexShape convexR; 
-        convexR.setPointCount(6); // Вершины
+        	convexR.setPointCount(6); // Вершины
 		// Устанавливаем координаты вершин
 		convexR.setPoint(0, Vector2f(260.f, 0.f));
 		convexR.setPoint(1, Vector2f(260.f, 20.f));
