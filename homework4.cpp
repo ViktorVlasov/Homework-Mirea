@@ -4,7 +4,7 @@
 #include <Windows.h>
 #include <math.h>
 #include <vector>
-#include <c.time>
+#include <ctime>
 #include <map>
 
 using namespace std;
