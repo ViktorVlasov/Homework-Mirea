@@ -445,3 +445,18 @@ void task9()
 	result = buf;
 
 	cout << result;
+}
+
+int main(){
+	//task1();
+	//task2();
+	//task3();
+	//task5();
+	//task6();
+	//task7();
+	//task8();
+	task9();
+	
+	return 0;
+
+}
