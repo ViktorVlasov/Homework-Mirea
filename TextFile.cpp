@@ -36,7 +36,7 @@ int main()
 		string word, minword;
 		int minlenght = 1000000;
 
-		// Ищем минимальное по длине слово
+		// Ищем слово, минимальное по длине
 		while (inf >> word) {
 			if (word.length() < minlenght) {
 				minlenght = word.length();
